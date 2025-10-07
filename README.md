@@ -1,0 +1,2 @@
+# Dynamic-MLB-Betting-Model-Probabilistic-Sports-Forecasting-using-Market-Machine-Learning-Features
+🏁 Objective  To build a machine learning–driven probabilistic model that:  Predicts MLB game outcomes with statistical calibration and market efficiency adjustments  Identifies +EV betting opportunities using advanced metrics (xFIP, wRC+, bullpen fatigue, weather)  Integrates dynamic lineup and environmental data for real-time re-forecasting
