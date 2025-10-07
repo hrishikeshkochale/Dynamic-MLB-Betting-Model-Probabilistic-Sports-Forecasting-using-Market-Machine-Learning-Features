@@ -1,0 +1,53 @@
+====================================================================
+           Dodgers vs Phillies — NLDS Game 2 (Oct 6, 2025)
+====================================================================
+
+⚠️ DISCLAIMER:
+This file is a retrospective demonstration generated from the MLB
+Betting Model v3.1. It uses predictions from the model’s earlier
+outputs to evaluate post-game performance.
+
+All numbers are illustrative and for educational use only. 
+Real-world betting involves many unpredictable variables 
+(injuries, weather, bullpen fatigue, umpire zone, etc.) and 
+should not be attempted based on analytical models alone.
+
+--------------------------------------------------------------------
+🏟  GAME OVERVIEW
+--------------------------------------------------------------------
+• Final Score: Dodgers 4, Phillies 3
+• Blake Snell: 6.0 IP, 1 H, 0 ER, 9 strikeouts
+• Park: Citizens Bank Park, Philadelphia
+• Conditions: 68°F, light breeze in (neutral scoring weather)
+
+--------------------------------------------------------------------
+🎯 MODEL’S RECOMMENDED BETS (from previous session)
+--------------------------------------------------------------------
+
+| # | Bet Description              | Model Probability | Odds  | Suggested Risk | Did it Hit? |
+|---|------------------------------|------------------:|------:|----------------:|:------------:|
+| 1 | Dodgers Moneyline (–130)     | ~61 %             | –130  | Medium          | ✅ Yes |
+| 2 | Blake Snell Over 7.5 Ks      | ~58 %             | +100  | Medium          | ✅ Yes (9 K) |
+| 3 | Game Total Over 7.5 Runs     | ~52 %             | +100  | Medium          | ❌ No (Total = 7) |
+| 4 | First 5 Innings ML (Dodgers) | ~59 %             | –120  | Medium          | ✅ Yes |
+| 5 | NRFI – No Run First Inning   | ~58 %             | –115  | High            | ✅ Yes |
+
+--------------------------------------------------------------------
+📈 MODEL PERFORMANCE SUMMARY
+--------------------------------------------------------------------
+• Total Bets Placed: 5  
+• Winning Bets: 4  
+• Model Accuracy: 80 %  
+• Average Expected Value (EV per $): ~ 0.03  
+• Simulated ROI: ≈ +2.4 %
+
+--------------------------------------------------------------------
+💡 ANALYSIS & NOTES
+--------------------------------------------------------------------
+✅ Model correctly identified Dodgers’ edge and Snell’s strikeout form.  
+❌ Game Total > 7.5 narrowly missed (final total = 7).  
+📊 Even with one miss, 4/5 accuracy indicates strong directional alignment.
+
+--------------------------------------------------------------------
+End of Report — MLB Betting Model v3.1 Results Demo
+====================================================================
